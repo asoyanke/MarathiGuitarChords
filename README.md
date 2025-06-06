@@ -1,5 +1,5 @@
 # Marathi Songs Acoustic Guitar Chords
-
+- [Aata Tari Deva Mala](Aata%20Tari%20Deva%20Mala)
 - [Airaneechya Deva Tula](Airaneechya%20Deva%20Tula)
 - [Ashwini Ye na](Ashwini%20Ye%20na)
 - [Chal Ga Sakhe Pandharila](Chal%20Ga%20Sakhe%20Pandharila)
