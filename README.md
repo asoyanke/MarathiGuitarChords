@@ -21,6 +21,7 @@
 - [Mi Dolkar Dariyacha Raja](Mi%20Dolkar%20Dariyacha%20Raja)
 - [Mi Hai Koli Sorilya Hori](Mi%20Hai%20Koli%20Sorilya%20Hori)
 - [Mi Raat Takali](Mi%20Raat%20Takali)
+- [Nishana Tula Disla Na](Nishana%20Tula%20Disla%20Na)
 - [Phite Andharache Jale](Phite%20Andharache%20Jale)
 - [Radha Hi Bawari](Radha%20Hi%20Bawari)
 - [Reshmachya Reghani](Reshmachya%20Reghani)
