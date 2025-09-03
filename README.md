@@ -22,6 +22,7 @@
 - [Mi Hai Koli Sorilya Hori](Mi%20Hai%20Koli%20Sorilya%20Hori)
 - [Mi Raat Takali](Mi%20Raat%20Takali)
 - [Nishana Tula Disla Na](Nishana%20Tula%20Disla%20Na)
+- [Olya Sanjveli](Olya%20Sanjveli)
 - [Phite Andharache Jale](Phite%20Andharache%20Jale)
 - [Radha Hi Bawari](Radha%20Hi%20Bawari)
 - [Reshmachya Reghani](Reshmachya%20Reghani)
