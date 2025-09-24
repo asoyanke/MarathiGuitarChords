@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="2q2n_4mrYRPPd00_SU3nRCoqbs9naHxlGH5OJTbKrl4" />
-
 # Marathi Songs Acoustic Guitar Chords
 - [Aami Thakar Thakar](Aami%20Thakar%20Thakar)
 - [Aata Tari Deva Mala](Aata%20Tari%20Deva%20Mala)
