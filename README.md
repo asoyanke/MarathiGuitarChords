@@ -17,6 +17,7 @@
 - [Majye Rani Majye Moga](Majye%20Rani%20Majye%20Moga)
 - [Mala Sanga Sukh Mhanje](Mala%20Sanga%20Sukh%20Mhanje)
 - [Mala Ved Lagale](Mala%20Ved%20Lagale)
+- [Malhar Wari](Malhar%20Wari)
 - [Malyachya Malya Madhi](Malyachya%20Malya%20Madhi)
 - [Man Udhan Varyache](Man%20Udhan%20Varyache)
 - [Mi Dolkar Dariyacha Raja](Mi%20Dolkar%20Dariyacha%20Raja)
