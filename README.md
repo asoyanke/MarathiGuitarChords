@@ -1,5 +1,5 @@
 # Marathi Songs Acoustic Guitar Chords
-- [Aami Thakar Thakar](Aami%20Thakar%20Thakar)
+- [Aami Thakar Thakar](Aami%20Thakar%20Thakar.txt)
 - [Aata Tari Deva Mala](Aata%20Tari%20Deva%20Mala)
 - [Abhaas ha](Abhaas%20ha)
 - [Abhang Unplugged](Abhang%20Unplugged)
