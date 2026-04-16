@@ -27,10 +27,10 @@
 - [Mi Raat Takali](Mi%20Raat%20Takali.txt)
 - [Nishana Tula Disla Na](Nishana%20Tula%20Disla%20Na.txt)
 - [Olya Sanjveli](Olya%20Sanjveli.txt)
-
-https://asoyanke.github.io/MarathiGuitarChords/
 - [Phite Andharache Jale](Phite%20Andharache%20Jale.txt)
 - [Radha Hi Bawari](Radha%20Hi%20Bawari.txt)
 - [Reshmachya Reghani](Reshmachya%20Reghani.txt)
 - [Ruperi Valut Madanchya Banaat](Ruperi%20Valut%20Madanchya%20Banaat.txt)
 - [Sairat Zaala Ji](Sairat%20Zaala%20Ji.txt)
+
+URL: https://asoyanke.github.io/MarathiGuitarChords/
