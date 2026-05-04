@@ -16,6 +16,7 @@
 - [Kaande Pohe](Kaande%20Pohe.txt)
 - [Kadhi Tu](Kadhi%20Tu.txt)
 - [Kalya Matit Matit](Kalya%20Matit%20Matit.txt)
+- [Majhya Dila Cho](Majhya%20Dila%20Cho.txt)
 - [Majye Rani Majye Moga](Majye%20Rani%20Majye%20Moga.txt)
 - [Mala Sanga Sukh Mhanje](Mala%20Sanga%20Sukh%20Mhanje.txt)
 - [Mala Ved Lagale](Mala%20Ved%20Lagale.txt)
@@ -33,4 +34,6 @@
 - [Ruperi Valut Madanchya Banaat](Ruperi%20Valut%20Madanchya%20Banaat.txt)
 - [Sairat Zaala Ji](Sairat%20Zaala%20Ji.txt)
 
+
+Prepared By : Ashok Soyanke
 URL: https://asoyanke.github.io/MarathiGuitarChords/
